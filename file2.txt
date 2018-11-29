@@ -1,1 +1,2 @@
 "Segundo archivo creado en rama1"
+Añado segunda linea a file2 en otro commit
