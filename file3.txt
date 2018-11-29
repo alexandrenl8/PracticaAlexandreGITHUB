@@ -1,1 +1,2 @@
 "Tercer archivo generado en rama2"
+Se añade una segunda linea en file3
